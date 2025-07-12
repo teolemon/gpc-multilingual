@@ -1,0 +1,548 @@
+# Sample Multilingual Google Product Taxonomy
+# Generated from monolingual files with wikidata mappings
+
+# Sample shows first 20 categories out of 5595 total
+# Languages: 19 (cs-CZ, da-DK, de-CH, de-DE, en-AU, en-GB, en-US, es-ES, fr-CH, fr-FR, it-IT, ja-JP, nl-NL, no-NO, pl-PL, pt-BR, ru-RU, sv-SE, tr-TR)
+# Categories with Wikidata: 5592
+
+================================================================================
+
+Category ID: 1
+Hierarchy Level: 1
+Wikidata: http://www.wikidata.org/entity/Q116957923
+Wikidata Label: animal or pet supply
+Languages:
+  cs-CZ: Chovatelství
+  da-DK: Dyr og tilbehør til kæledyr
+  de-CH: Tiere & Tierbedarf
+  de-DE: Tiere & Tierbedarf
+  en-AU: Animals & Pet Supplies
+  en-GB: Animals & Pet Supplies
+  en-US: Animals & Pet Supplies
+  es-ES: Productos para mascotas y animales
+  fr-CH: Animaux et articles pour animaux de compagnie
+  fr-FR: Animaux et articles pour animaux de compagnie
+  it-IT: Articoli per animali
+  ja-JP: ペット・ペット用品
+  nl-NL: Dieren
+  no-NO: Dyr og kjæledyrutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt
+  pt-BR: Animais e suprimentos para animais de estimação
+  ru-RU: Животные и товары для питомцев
+  sv-SE: Djur och tillbehör till husdjur
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri
+
+----------------------------------------
+
+Category ID: 8
+Hierarchy Level: 1
+Wikidata: http://www.wikidata.org/entity/Q117207300
+Wikidata Label: arts & entertainment product
+Languages:
+  cs-CZ: Umění a zábava
+  da-DK: Kunst og underholdning
+  de-CH: Kunst & Unterhaltung
+  de-DE: Kunst & Unterhaltung
+  en-AU: Arts & Entertainment
+  en-GB: Arts & Entertainment
+  en-US: Arts & Entertainment
+  es-ES: Arte y ocio
+  fr-CH: Arts et loisirs
+  fr-FR: Arts et loisirs
+  it-IT: Arte e svago
+  ja-JP: 芸術・エンターテイメント
+  nl-NL: Kunst en entertainment
+  no-NO: Kunst og underholdning
+  pl-PL: Sztuka i rozrywka
+  pt-BR: Artes e entretenimento
+  ru-RU: Искусство и развлечения
+  sv-SE: Konst och underhållning
+  tr-TR: Sanat ve Eğlence
+
+----------------------------------------
+
+Category ID: 2
+Hierarchy Level: 2
+Wikidata: http://www.wikidata.org/entity/Q115921084
+Wikidata Label: pet supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr
+  de-CH: Tiere & Tierbedarf > Haustierbedarf
+  de-DE: Tiere & Tierbedarf > Haustierbedarf
+  en-AU: Animals & Pet Supplies > Pet Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie
+  it-IT: Articoli per animali > Animali domestici - Articoli
+  ja-JP: ペット・ペット用品 > ペット用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri
+
+----------------------------------------
+
+Category ID: 39
+Hierarchy Level: 2
+Wikidata: http://www.wikidata.org/entity/Q11633
+Wikidata Label: photographie
+Languages:
+  cs-CZ: Foto, video a optika > Fotografování
+  da-DK: Kameraer og optik > Fotografi
+  de-CH: Kameras & Optik > Fotografie
+  de-DE: Kameras & Optik > Fotografie
+  en-AU: Cameras & Optics > Photography
+  en-GB: Cameras & Optics > Photography
+  en-US: Cameras & Optics > Photography
+  es-ES: Cámaras y ópticas > Fotografía
+  fr-CH: Appareils photo, caméras et instruments d'optique > Photographie
+  fr-FR: Appareils photo, caméras et instruments d'optique > Photographie
+  it-IT: Fotocamere/dispositivi ottici > Fotografia
+  ja-JP: カメラ・光学機器 > 写真関連用具
+  nl-NL: Camera's en optiek > Fotografie
+  no-NO: Kameraer og optikk > Fotografering
+  pl-PL: Aparaty, kamery i przyrządy optyczne > Fotografia
+  pt-BR: Câmeras e óptica > Fotografia
+  ru-RU: Камеры и оптика > Фотография
+  sv-SE: Kameror och optik > Fotografi
+  tr-TR: Kameralar ve Optik Malzemeler > Fotoğrafçılık
+
+----------------------------------------
+
+Category ID: 3
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116958015
+Wikidata Label: bird supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata > Potřeby pro ptáky
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr > Tilbehør til fugle
+  de-CH: Tiere & Tierbedarf > Haustierbedarf > Vogelbedarf
+  de-DE: Tiere & Tierbedarf > Haustierbedarf > Vogelbedarf
+  en-AU: Animals & Pet Supplies > Pet Supplies > Bird Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies > Bird Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies > Bird Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas > Productos para pájaros
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour oiseaux
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour oiseaux
+  it-IT: Articoli per animali > Animali domestici - Articoli > Articoli per uccelli
+  ja-JP: ペット・ペット用品 > ペット用品 > 鳥用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren > Benodigdheden voor vogels
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr > Fugleutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt > Artykuły dla ptaków
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação > Suprimentos para pássaros
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных > Товары для птиц
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur > Fågeltillbehör
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri > Kuş Ürünleri
+
+----------------------------------------
+
+Category ID: 4
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116958024
+Wikidata Label: cat supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata > Potřeby pro kočky
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr > Tilbehør til katte
+  de-CH: Tiere & Tierbedarf > Haustierbedarf > Katzenbedarf
+  de-DE: Tiere & Tierbedarf > Haustierbedarf > Katzenbedarf
+  en-AU: Animals & Pet Supplies > Pet Supplies > Cat Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies > Cat Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies > Cat Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas > Productos para gatos
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour chats
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour chats
+  it-IT: Articoli per animali > Animali domestici - Articoli > Articoli per gatti
+  ja-JP: ペット・ペット用品 > ペット用品 > 猫用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren > Benodigdheden voor katten
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr > Katteutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt > Artykuły dla kotów
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação > Suprimentos para gatos
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных > Товары для кошек
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur > Kattillbehör
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri > Kedi Ürünleri
+
+----------------------------------------
+
+Category ID: 5
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116958041
+Wikidata Label: dog supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata > Potřeby pro psy
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr > Tilbehør til hunde
+  de-CH: Tiere & Tierbedarf > Haustierbedarf > Hundebedarf
+  de-DE: Tiere & Tierbedarf > Haustierbedarf > Hundebedarf
+  en-AU: Animals & Pet Supplies > Pet Supplies > Dog Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies > Dog Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies > Dog Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas > Productos para perros
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour chiens
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour chiens
+  it-IT: Articoli per animali > Animali domestici - Articoli > Articoli per cani
+  ja-JP: ペット・ペット用品 > ペット用品 > 犬用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren > Benodigdheden voor honden
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr > Hundeutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt > Artykuły dla psów
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação > Suprimentos para cães
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных > Товары для собак
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur > Hundtillbehör
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri > Köpek Ürünleri
+
+----------------------------------------
+
+Category ID: 6
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116958053
+Wikidata Label: fish supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata > Akvaristika
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr > Tilbehør til fisk
+  de-CH: Tiere & Tierbedarf > Haustierbedarf > Aquaristik
+  de-DE: Tiere & Tierbedarf > Haustierbedarf > Aquaristik
+  en-AU: Animals & Pet Supplies > Pet Supplies > Fish Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies > Fish Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies > Fish Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas > Productos para peces
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour poissons
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour poissons
+  it-IT: Articoli per animali > Animali domestici - Articoli > Articoli per pesci
+  ja-JP: ペット・ペット用品 > ペット用品 > 観賞魚用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren > Benodigdheden voor vissen
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr > Fiskeutstyr
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt > Artykuły dla rybek
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação > Suprimentos para peixes
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных > Товары для рыб
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur > Fisktillbehör
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri > Balık Ürünleri
+
+----------------------------------------
+
+Category ID: 7
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116958203
+Wikidata Label: reptile & amphibian supply
+Languages:
+  cs-CZ: Chovatelství > Potřeby pro domácí zvířata > Potřeby pro plazy a obojživelníky
+  da-DK: Dyr og tilbehør til kæledyr > Tilbehør til kæledyr > Tilbehør til reptiler og padder
+  de-CH: Tiere & Tierbedarf > Haustierbedarf > Reptilien- & Amphibienbedarf
+  de-DE: Tiere & Tierbedarf > Haustierbedarf > Reptilien- & Amphibienbedarf
+  en-AU: Animals & Pet Supplies > Pet Supplies > Reptile & Amphibian Supplies
+  en-GB: Animals & Pet Supplies > Pet Supplies > Reptile & Amphibian Supplies
+  en-US: Animals & Pet Supplies > Pet Supplies > Reptile & Amphibian Supplies
+  es-ES: Productos para mascotas y animales > Productos para mascotas > Productos para reptiles y anfibios
+  fr-CH: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour reptiles et amphibiens
+  fr-FR: Animaux et articles pour animaux de compagnie > Articles pour animaux de compagnie > Accessoires pour reptiles et amphibiens
+  it-IT: Articoli per animali > Animali domestici - Articoli > Articoli anfibi e rettili
+  ja-JP: ペット・ペット用品 > ペット用品 > 爬虫類・両生類用品
+  nl-NL: Dieren > Benodigdheden voor huisdieren > Benodigdheden voor reptielen en amfibieën
+  no-NO: Dyr og kjæledyrutstyr > Kjæledyrutstyr > Utstyr for reptiler og amfibier
+  pl-PL: Zwierzęta i artykuły dla zwierząt > Artykuły dla zwierząt > Artykuły dla gadów i płazów
+  pt-BR: Animais e suprimentos para animais de estimação > Suprimentos para animais de estimação > Suprimentos para répteis e anfíbios
+  ru-RU: Животные и товары для питомцев > Товары для домашних животных > Товары для рептилий и амфибий
+  sv-SE: Djur och tillbehör till husdjur > Tillbehör till husdjur > Tillbehör till reptiler och amfibier
+  tr-TR: Hayvanlar ve Evcil Hayvan Ürünleri > Evcil Hayvan Ürünleri > Sürüngen ve Amfibi Ürünleri
+
+----------------------------------------
+
+Category ID: 9
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q838948
+Wikidata Label: œuvre d’art
+Languages:
+  cs-CZ: Dům a zahrada > Bytové doplňky a dekorace > Výtvarné umění
+  da-DK: Hjem og have > Indretning > Illustrationer
+  de-CH: Heim & Garten > Dekoration > Kunst
+  de-DE: Heim & Garten > Dekoration > Kunst
+  en-AU: Home & Garden > Decor > Artwork
+  en-GB: Home & Garden > Decor > Artwork
+  en-US: Home & Garden > Decor > Artwork
+  es-ES: Casa y jardín > Decoración > Obras de arte
+  fr-CH: Maison et jardin > Décorations > Œuvres d'art
+  fr-FR: Maison et jardin > Décorations > Œuvres d'art
+  it-IT: Casa e giardino > Arredo > Arte
+  ja-JP: ホーム・ガーデン > インテリア・エクステリア > 美術品
+  nl-NL: Huis en tuin > Decoratie > Kunst
+  no-NO: Hjem og hage > Dekor > Kunst
+  pl-PL: Dom i ogród > Ozdoby do domu i ogrodu > Dzieła sztuki
+  pt-BR: Casa e jardim > Decoração > Obra de arte
+  ru-RU: Дом и сад > Декоративные элементы > Произведения искусства
+  sv-SE: Hem och trädgård > Dekor > Konstverk
+  tr-TR: Ev ve Bahçe > Dekor > Sanatsal Çalışmalar
+
+----------------------------------------
+
+Category ID: 16
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q115923192
+Wikidata Label: arts and craft item
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Řemesla a koníčky
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Håndarbejde og hobby
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Kunsthandwerk & Hobby
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Kunsthandwerk & Hobby
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts
+  es-ES: Arte y ocio > Hobbies y artes creativas > Manualidades
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Loisirs créatifs
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Loisirs créatifs
+  it-IT: Arte e svago > Hobby e arti creative > Artigianato e hobby
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > クラフト・アート
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Handwerk en hobby's
+  no-NO: Kunst og underholdning > Hobby og kunst > Kunst og håndverk
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Rękodzieło i hobby
+  pt-BR: Artes e entretenimento > Hobbies e artes > Arte e artesanato
+  ru-RU: Искусство и развлечения > Хобби и творчество > Рукоделие и хобби
+  sv-SE: Konst och underhållning > Hobby och skapande > Hantverk och hobbyer
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Sanatlar ve El İşleri
+
+----------------------------------------
+
+Category ID: 33
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q117207313
+Wikidata Label: juggling product
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Žonglování
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Jonglering
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Jonglieren
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Jonglieren
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Juggling
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Juggling
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Juggling
+  es-ES: Arte y ocio > Hobbies y artes creativas > Juegos malabares
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Jonglage
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Jonglage
+  it-IT: Arte e svago > Hobby e arti creative > Giocoleria
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > ジャグリング
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Jongleren
+  no-NO: Kunst og underholdning > Hobby og kunst > Sjonglering
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Przybory do żonglowania
+  pt-BR: Artes e entretenimento > Hobbies e artes > Malabarismo
+  ru-RU: Искусство и развлечения > Хобби и творчество > Предметы для жонглирования
+  sv-SE: Konst och underhållning > Hobby och skapande > Jonglering
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Jonglör Malzemeleri
+
+----------------------------------------
+
+Category ID: 35
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q117207314
+Wikidata Label: magic & novelty product
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Kouzla a triky
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Trylleri og festartikler
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Zauberbedarf
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Zauberbedarf
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Magic & Novelties
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Magic & Novelties
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Magic & Novelties
+  es-ES: Arte y ocio > Hobbies y artes creativas > Trucos de magia
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Magie et nouveautés
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Magie et nouveautés
+  it-IT: Arte e svago > Hobby e arti creative > Magia e oggetti insoliti
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > 手品グッズ
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Goochelen en goochelaccessoires
+  no-NO: Kunst og underholdning > Hobby og kunst > Trylle- og morosaker
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Magia i sztuczki
+  pt-BR: Artes e entretenimento > Hobbies e artes > Mágica e bugigangas
+  ru-RU: Искусство и развлечения > Хобби и творчество > Товары для демонстрации фокусов
+  sv-SE: Konst och underhållning > Hobby och skapande > Magi och skämtartiklar
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Sihirli ve Hediyelik Eşyalar
+
+----------------------------------------
+
+Category ID: 41
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q601413
+Wikidata Label: darkroom
+Languages:
+  cs-CZ: Foto, video a optika > Fotografování > Temná komora
+  da-DK: Kameraer og optik > Fotografi > Mørkekammer
+  de-CH: Kameras & Optik > Fotografie > Dunkelkammer
+  de-DE: Kameras & Optik > Fotografie > Dunkelkammer
+  en-AU: Cameras & Optics > Photography > Darkroom
+  en-GB: Cameras & Optics > Photography > Darkroom
+  en-US: Cameras & Optics > Photography > Darkroom
+  es-ES: Cámaras y ópticas > Fotografía > Cuarto oscuro
+  fr-CH: Appareils photo, caméras et instruments d'optique > Photographie > Chambre noire
+  fr-FR: Appareils photo, caméras et instruments d'optique > Photographie > Chambre noire
+  it-IT: Fotocamere/dispositivi ottici > Fotografia > Camera oscura
+  ja-JP: カメラ・光学機器 > 写真関連用具 > 暗室
+  nl-NL: Camera's en optiek > Fotografie > Donkere kamer
+  no-NO: Kameraer og optikk > Fotografering > Mørkerom
+  pl-PL: Aparaty, kamery i przyrządy optyczne > Fotografia > Ciemnia
+  pt-BR: Câmeras e óptica > Fotografia > Quarto escuro
+  ru-RU: Камеры и оптика > Фотография > Фотолаборатория
+  sv-SE: Kameror och optik > Fotografi > Mörkrum
+  tr-TR: Kameralar ve Optik Malzemeler > Fotoğrafçılık > Karanlık Oda
+
+----------------------------------------
+
+Category ID: 42
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q117207385
+Wikidata Label: lighting & studio product
+Languages:
+  cs-CZ: Foto, video a optika > Fotografování > Osvětlení a studiové vybavení
+  da-DK: Kameraer og optik > Fotografi > Lyssætning og studieoptagelser
+  de-CH: Kameras & Optik > Fotografie > Beleuchtung & Studiobedarf
+  de-DE: Kameras & Optik > Fotografie > Beleuchtung & Studiobedarf
+  en-AU: Cameras & Optics > Photography > Lighting & Studio
+  en-GB: Cameras & Optics > Photography > Lighting & Studio
+  en-US: Cameras & Optics > Photography > Lighting & Studio
+  es-ES: Cámaras y ópticas > Fotografía > Iluminación y estudio
+  fr-CH: Appareils photo, caméras et instruments d'optique > Photographie > Éclairage et studio
+  fr-FR: Appareils photo, caméras et instruments d'optique > Photographie > Éclairage et studio
+  it-IT: Fotocamere/dispositivi ottici > Fotografia > Illuminazione e studio
+  ja-JP: カメラ・光学機器 > 写真関連用具 > 照明・スタジオ
+  nl-NL: Camera's en optiek > Fotografie > Belichting en studio
+  no-NO: Kameraer og optikk > Fotografering > Belysning og studio
+  pl-PL: Aparaty, kamery i przyrządy optyczne > Fotografia > Oświetlenie i studio
+  pt-BR: Câmeras e óptica > Fotografia > Iluminação e estúdio
+  ru-RU: Камеры и оптика > Фотография > Освещение и оборудование для студий
+  sv-SE: Kameror och optik > Fotografi > Ljussättning och studio
+  tr-TR: Kameralar ve Optik Malzemeler > Fotoğrafçılık > Işıklandırma ve Stüdyo
+
+----------------------------------------
+
+Category ID: 54
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q34379
+Wikidata Label: instrument de musique
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Hudební nástroje
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Musikinstrumenter
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Musikinstrumente
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Musikinstrumente
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments
+  es-ES: Arte y ocio > Hobbies y artes creativas > Instrumentos musicales
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Instruments de musique
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Instruments de musique
+  it-IT: Arte e svago > Hobby e arti creative > Strumenti musicali
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > 楽器
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Muziekinstrumenten
+  no-NO: Kunst og underholdning > Hobby og kunst > Musikkinstrumenter
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Instrumenty muzyczne
+  pt-BR: Artes e entretenimento > Hobbies e artes > Instrumentos musicais
+  ru-RU: Искусство и развлечения > Хобби и творчество > Музыкальные инструменты
+  sv-SE: Konst och underhållning > Hobby och skapande > Musikinstrument
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Müzik Aletleri
+
+----------------------------------------
+
+Category ID: 55
+Hierarchy Level: 3
+Wikidata: http://www.wikidata.org/entity/Q116960630
+Wikidata Label: accessoire de musique
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Hudební nástroje – příslušenství
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Musikinstrumenter – tilbehør
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Zubehör für Musikinstrumente
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Zubehör für Musikinstrumente
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Musical Instrument & Orchestra Accessories
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Musical Instrument & Orchestra Accessories
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Musical Instrument & Orchestra Accessories
+  es-ES: Arte y ocio > Hobbies y artes creativas > Accesorios para instrumentos musicales y de orquesta
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Accessoires pour instruments de musique et orchestres
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Accessoires pour instruments de musique et orchestres
+  it-IT: Arte e svago > Hobby e arti creative > Accessori per orchestre e strumenti musicali
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > 楽器関連用品
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Accessoires voor muziekinstrumenten
+  no-NO: Kunst og underholdning > Hobby og kunst > Tilbehør til musikkinstrumenter og orkester
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Akcesoria do instrumentów muzycznych
+  pt-BR: Artes e entretenimento > Hobbies e artes > Acessórios para instrumentos musicais e orquestras
+  ru-RU: Искусство и развлечения > Хобби и творчество > Принадлежности для музыкальных инструментов
+  sv-SE: Konst och underhållning > Hobby och skapande > Tillbehör till musikinstrument
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Müzik Aleti ve Orkestra Aksesuarları
+
+----------------------------------------
+
+Category ID: 11
+Hierarchy Level: 4
+Wikidata: http://www.wikidata.org/entity/Q117207592
+Wikidata Label: sculptures & statue
+Languages:
+  cs-CZ: Dům a zahrada > Bytové doplňky a dekorace > Výtvarné umění > Plastiky a sochy
+  da-DK: Hjem og have > Indretning > Illustrationer > Skulpturer og statuer
+  de-CH: Heim & Garten > Dekoration > Kunst > Figuren, Skulpturen & Statuen
+  de-DE: Heim & Garten > Dekoration > Kunst > Figuren, Skulpturen & Statuen
+  en-AU: Home & Garden > Decor > Artwork > Figurines, Sculptures & Statues
+  en-GB: Home & Garden > Decor > Artwork > Sculptures & Statues
+  en-US: Home & Garden > Decor > Artwork > Sculptures & Statues
+  es-ES: Casa y jardín > Decoración > Obras de arte > Figuras, esculturas y estatuas
+  fr-CH: Maison et jardin > Décorations > Œuvres d'art > Sculptures et statues
+  fr-FR: Maison et jardin > Décorations > Œuvres d'art > Sculptures et statues
+  it-IT: Casa e giardino > Arredo > Arte > Statuine, sculture e statue
+  ja-JP: ホーム・ガーデン > インテリア・エクステリア > 美術品 > 彫刻・立体作品
+  nl-NL: Huis en tuin > Decoratie > Kunst > Beelden, sculpturen en standbeelden
+  no-NO: Hjem og hage > Dekor > Kunst > Skulpturer og statuer
+  pl-PL: Dom i ogród > Ozdoby do domu i ogrodu > Dzieła sztuki > Rzeźby i posągi
+  pt-BR: Casa e jardim > Decoração > Obra de arte > Esculturas e estátuas
+  ru-RU: Дом и сад > Декоративные элементы > Произведения искусства > Статуэтки, скульптуры и статуи
+  sv-SE: Hem och trädgård > Dekor > Konstverk > Skulpturer och statyer
+  tr-TR: Ev ve Bahçe > Dekor > Sanatsal Çalışmalar > Büstler ve Heykeller
+
+----------------------------------------
+
+Category ID: 37
+Hierarchy Level: 4
+Wikidata: http://www.wikidata.org/entity/Q6498959
+Wikidata Label: maquette
+Languages:
+  cs-CZ: Umění a zábava > Hobby, hudba a výtvarné umění > Sběratelské předměty > Zmenšené modely
+  da-DK: Kunst og underholdning > Hobby og håndarbejde > Samleobjekter > Skalamodeller
+  de-CH: Kunst & Unterhaltung > Hobby & Kunst > Sammlerstücke > Maßstabsmodelle
+  de-DE: Kunst & Unterhaltung > Hobby & Kunst > Sammlerstücke > Maßstabsmodelle
+  en-AU: Arts & Entertainment > Hobbies & Creative Arts > Collectables > Scale Models
+  en-GB: Arts & Entertainment > Hobbies & Creative Arts > Collectables > Scale Models
+  en-US: Arts & Entertainment > Hobbies & Creative Arts > Collectibles > Scale Models
+  es-ES: Arte y ocio > Hobbies y artes creativas > Coleccionables > Maquetas a escala
+  fr-CH: Arts et loisirs > Loisirs et arts créatifs > Articles de collection > Maquettes
+  fr-FR: Arts et loisirs > Loisirs et arts créatifs > Articles de collection > Maquettes
+  it-IT: Arte e svago > Hobby e arti creative > Collezionismo > Modelli in scala
+  ja-JP: 芸術・エンターテイメント > 趣味・コレクション > コレクションアイテム > スケールモデル
+  nl-NL: Kunst en entertainment > Hobby's en creatieve vaardigheden > Verzamelobjecten > Schaalmodellen
+  no-NO: Kunst og underholdning > Hobby og kunst > Samlegjenstander > Skalamodeller
+  pl-PL: Sztuka i rozrywka > Hobby i sztuki piękne > Artykuły kolekcjonerskie > Modele redukcyjne
+  pt-BR: Artes e entretenimento > Hobbies e artes > Artigos colecionáveis > Maquetes
+  ru-RU: Искусство и развлечения > Хобби и творчество > Коллекционные предметы > Масштабные модели
+  sv-SE: Konst och underhållning > Hobby och skapande > Samlarobjekt > Modellbyggen
+  tr-TR: Sanat ve Eğlence > Hobiler ve Sanatsal Çalışmalar > Koleksiyonlar > Maketler
+
+----------------------------------------
+
+Category ID: 53
+Hierarchy Level: 4
+Wikidata: http://www.wikidata.org/entity/Q116961222
+Wikidata Label: gift cards & certificate
+Languages:
+  cs-CZ: Umění a zábava > Párty a oslavy > Dárky > Dárkové certifikáty
+  da-DK: Kunst og underholdning > Fest og fejring > Gavegivning > Gavekort og tilgodebeviser
+  de-CH: Kunst & Unterhaltung > Party & Feiern > Schenken > Geschenkgutscheine
+  de-DE: Kunst & Unterhaltung > Party & Feiern > Schenken > Geschenkgutscheine
+  en-AU: Arts & Entertainment > Party & Celebration > Gift Giving > Gift Cards & Certificates
+  en-GB: Arts & Entertainment > Party & Celebration > Gift Giving > Gift Cards & Certificates
+  en-US: Arts & Entertainment > Party & Celebration > Gift Giving > Gift Cards & Certificates
+  es-ES: Arte y ocio > Fiestas y celebraciones > Regalos > Cheques regalo
+  fr-CH: Arts et loisirs > Fêtes et soirées > Cadeaux > Cartes et chèques cadeaux
+  fr-FR: Arts et loisirs > Fêtes et soirées > Cadeaux > Cartes et chèques cadeaux
+  it-IT: Arte e svago > Party e festeggiamenti > Regali > Buoni regalo
+  ja-JP: 芸術・エンターテイメント > パーティー・お祝い > ギフト > 商品券・ギフト券
+  nl-NL: Kunst en entertainment > Feestelijke gelegenheden > Cadeaus > Cadeaubonnen
+  no-NO: Kunst og underholdning > Fest og feiring > Gaver > Gavekort og kuponger
+  pl-PL: Sztuka i rozrywka > Przyjęcia i świętowanie > Wręczanie prezentów > Bony podarunkowe
+  pt-BR: Artes e entretenimento > Festas e comemorações > Dar presentes > Vale-presentes
+  ru-RU: Искусство и развлечения > Вечеринки и праздники > Подарки > Подарочные сертификаты
+  sv-SE: Konst och underhållning > Fest och firande > Presenter > Presentkort och kuponger
+  tr-TR: Sanat ve Eğlence > Parti ve Kutlamalar > Hediyelik Eşyalar > Hediye kartları
+
+----------------------------------------
